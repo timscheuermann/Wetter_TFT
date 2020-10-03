@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Wetter_TFT",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"typeinfo": "cpp",
+			"vector": "cpp"
+		}
+	}
+}
